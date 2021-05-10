@@ -59,4 +59,4 @@ This project is re-using this modular 3D model for IoT devices:
 
 https://www.thingiverse.com/thing:3391397
 
-The dome part has been modified to ensure free circulation of air around the sensor.
+The dome part has been modified to ensure free circulation of air around the sensor, see checked in STL file.
