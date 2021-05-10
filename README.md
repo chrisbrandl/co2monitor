@@ -1,4 +1,4 @@
-# co2monitoring
+# co2monitor
 
 An IoT project to counter the spread of Covid19 indoors. 
 There are lots of projects online that describe the basic setup to using a specific sensor for that, but they are mostly somewhat incomplete for practical use.
