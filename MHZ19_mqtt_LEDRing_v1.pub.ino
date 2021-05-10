@@ -222,7 +222,7 @@ void connectToWiFi() {
   WiFi.begin(WLAN_SSID, WLAN_PASS); 
   int timeoutCounter = 0;
   while ( WiFi.status() != WL_CONNECTED && timeoutCounter <= 12) {
-    //half the time it is not connecting properly
+    //sometimes it is not connecting properly
     timeoutCounter++;
     Serial.print(".");
     delay(500);
