@@ -1,6 +1,9 @@
 # co2monitor
 
 An IoT project to counter the spread of Covid19 indoors. 
+
+https://www.sciencedaily.com/releases/2021/04/210407143809.htm
+
 There are lots of projects online that describe the basic setup to using a specific sensor for that, but they are mostly somewhat incomplete for practical use.
 
 For this CO2 sensor project, a display is added to stay informed on the spot along with a colored light indicator to prominently indicate the severity of the current situation.
