@@ -62,4 +62,18 @@ This project is re-using this modular 3D model for IoT devices:
 
 https://www.thingiverse.com/thing:3391397
 
-The dome part has been modified to ensure free circulation of air around the sensor, see checked in STL file.
+The dome part has been modified to ensure free circulation of air around the sensor, see checked-in STL file.
+
+# Dashboarding 
+
+Once the data is being sent to an MQTT Server, it can be used via Node Red to be forwarded to the ADAMOS IIoT Platform. 
+
+These are some basic steps on Node Red:
+
+* Subscribe to MQTT Topic  
+* Build JSON payload
+* POST to ADAMOS IIoT Tenant as measurement
+* Add widget for incoming data points on IoT platform
+
+Resulting UI screenshot is available in the Repository.
+
