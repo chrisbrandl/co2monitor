@@ -58,11 +58,12 @@ See the code in the master branch, need to add WLAN access point credentials and
 
 # 3D Model
 
-This project is re-using this modular 3D model for IoT devices:
+This project is re-using this great modular 3D model for IoT devices:
 
 https://www.thingiverse.com/thing:3391397
 
-The dome part has been modified to ensure free circulation of air around the sensor, see checked-in STL file.
+The dome part has been modified to ensure free circulation of air around the sensor, see checked-in STL file. 
+The model is printed e.g. on a standard Ender 3 printer.
 
 # Dashboarding 
 
