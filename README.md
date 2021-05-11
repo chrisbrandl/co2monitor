@@ -66,7 +66,7 @@ The dome part has been modified to ensure free circulation of air around the sen
 
 # Dashboarding 
 
-Once the data is being sent to an MQTT Server, it can be used via Node Red to be forwarded to the ADAMOS IIoT Platform. 
+Once the data is being sent to an MQTT Server, it can be used via Node Red to be forwarded to the e.g. ADAMOS IIoT Platform. 
 
 These are some basic steps on Node Red:
 
