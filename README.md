@@ -29,9 +29,6 @@ Check the checked-in fritzing image for wiring illustration.
       <td>ESP</td><td>MHZ19</td> <td>OLED</td> <td>LEDRing</td>
     </tr>
     <tr>
-      <td>D5</td> <td>---</td><td>---</td> <td>IN</td>
-    </tr>
-    <tr>
       <td>5V</td> <td>VIN</td>---<td>VDD</td>---<td>VIN</td>
     </tr>
     <tr>
@@ -48,6 +45,9 @@ Check the checked-in fritzing image for wiring illustration.
     </tr>
     <tr>
       <td>D4</td> <td>RX</td> <td>---</td><td>---</td> 
+    </tr>
+    <tr>
+      <td>D5</td> <td>---</td><td>---</td> <td>IN</td>
     </tr>
 </table>
 
