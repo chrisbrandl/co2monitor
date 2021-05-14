@@ -2,7 +2,7 @@
 
 An IoT project to counter the spread of Covid19 indoors. 
 
-https://www.sciencedaily.com/releases/2021/04/210407143809.htm
+Scientific Background: https://pubs.acs.org/doi/10.1021/acs.estlett.1c00183
 
 There are lots of projects online that describe the basic setup to using a specific sensor for that, but they are mostly somewhat incomplete for practical use.
 
