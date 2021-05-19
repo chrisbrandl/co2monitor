@@ -54,9 +54,11 @@ Check the checked-in fritzing image for wiring illustration.
 # Code
 
 See the code in the master branch, need to add WLAN access point credentials and MQTT details. 
-The following library is used for the sensor (alternatively you could also directly call the values via the serial interface): 
+The following library is used for the sensor (alternatively you could also call the values via the SoftwareSerial (MH_Z19_RX, MH_Z19_TX)): 
 
 https://github.com/WifWaf/MH-Z19 
+
+Advantage of the library: takes care of autocalibration.
 
 
 # 3D Model
