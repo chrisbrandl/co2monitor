@@ -53,7 +53,10 @@ Check the checked-in fritzing image for wiring illustration.
 
 # Code
 
-See the code in the master branch, need to add WLAN access point credentials and MQTT details.
+See the code in the master branch, need to add WLAN access point credentials and MQTT details. 
+The following library is used: 
+
+https://github.com/WifWaf/MH-Z19 
 
 
 # 3D Model
